@@ -24,12 +24,16 @@ Mi recorrido educativo culminó en Henry, donde completé toda la carrera de Des
 
 ### Habilidades
 Destaco las tecnologías y habilidades técnicas que domino, incluyendo:
-- HTML
-- CSS
-- ![JavaScript](../Portafolio/Images/js.png) JavaScript
-- Node.js
-- React
-- Redux
+
+|  |  |
+| ---------- | ------ |
+| HTML       | <img src="html.png" alt="HTML" width="50" height="50"> |
+| CSS        | <img src="css.png" alt="CSS" width="50" height="50"> |
+| JavaScript | <img src="js.png" alt="JavaScript" width="50" height="50"> |
+| Node       | <img src="node.png" alt="JavaScript" width="50" height="50"> |
+| React      | <img src="react.png" alt="JavaScript" width="50" height="50">|
+| Redux      | <img src="redux.png" alt="JavaScript" width="50" height="50">|
+
 
 ### Proyectos Destacados
 Aquí encontrarás una selección de mis proyectos más relevantes, cada uno con una breve descripción y enlaces a los repositorios en GitHub o demostraciones en vivo.
