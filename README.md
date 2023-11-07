@@ -14,7 +14,6 @@ Entre mis habilidades, destaco mi capacidad para comprender a fondo las necesida
 
 Me entusiasma seguir creciendo y aprendiendo en el mundo del desarrollo Full Stack, enfrentando desafíos que me permitan expandir mis habilidades y conocimientos.
 
-## Estructura del Portafolio
 
 ### Sobre Mí
 Mi viaje en el mundo de la tecnología comenzó con un técnico en Gestión Documental y Big Data, donde recibí la recomendación de adentrarme en el estudio de la programación. Inicié mi travesía con un curso básico de Python en "Programación para Todos" de la Universidad de Michigan, donde desarrollé una base sólida en lógica de programación.
@@ -27,11 +26,10 @@ Mi recorrido educativo culminó en Henry, donde completé toda la carrera de Des
 Destaco las tecnologías y habilidades técnicas que domino, incluyendo:
 - HTML
 - CSS
-- JavaScript
+- ![JavaScript](../Portafolio/Images/js.png) JavaScript
 - Node.js
 - React
-- Bases de datos (MySQL, MongoDB)
-- Y más...
+- Redux
 
 ### Proyectos Destacados
 Aquí encontrarás una selección de mis proyectos más relevantes, cada uno con una breve descripción y enlaces a los repositorios en GitHub o demostraciones en vivo.
